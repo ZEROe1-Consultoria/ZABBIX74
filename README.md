@@ -1,19 +1,5 @@
-ZZZZZZZZZZZZZZZZZZZEEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR        OOOOOOOOO                           1111111
-Z:::::::::::::::::ZE::::::::::::::::::::ER::::::::::::::::R     OO:::::::::OO                        1::::::1
-Z:::::::::::::::::ZE::::::::::::::::::::ER::::::RRRRRR:::::R  OO:::::::::::::OO                     1:::::::1
-Z:::ZZZZZZZZ:::::Z EE::::::EEEEEEEEE::::ERR:::::R     R:::::RO:::::::OOO:::::::O                    111:::::1
-ZZZZZ     Z:::::Z    E:::::E       EEEEEE  R::::R     R:::::RO::::::O   O::::::O    eeeeeeeeeeee       1::::1
-        Z:::::Z      E:::::E               R::::R     R:::::RO:::::O     O:::::O  ee::::::::::::ee     1::::1
-       Z:::::Z       E::::::EEEEEEEEEE     R::::RRRRRR:::::R O:::::O     O:::::O e::::::eeeee:::::ee   1::::1
-      Z:::::Z        E:::::::::::::::E     R:::::::::::::RR  O:::::O     O:::::Oe::::::e     e:::::e   1::::l
-     Z:::::Z         E:::::::::::::::E     R::::RRRRRR:::::R O:::::O     O:::::Oe:::::::eeeee::::::e   1::::l
-    Z:::::Z          E::::::EEEEEEEEEE     R::::R     R:::::RO:::::O     O:::::Oe:::::::::::::::::e    1::::l
-   Z:::::Z           E:::::E               R::::R     R:::::RO:::::O     O:::::Oe::::::eeeeeeeeeee     1::::l
-ZZZ:::::Z     ZZZZZ  E:::::E       EEEEEE  R::::R     R:::::RO::::::O   O::::::Oe:::::::e              1::::l
-Z::::::ZZZZZZZZ:::ZEE::::::EEEEEEEE:::::ERR:::::R     R:::::RO:::::::OOO:::::::Oe::::::::e          111::::::111
-Z:::::::::::::::::ZE::::::::::::::::::::ER::::::R     R:::::R OO:::::::::::::OO  e::::::::eeeeeeee  1::::::::::1
-Z:::::::::::::::::ZE::::::::::::::::::::ER::::::R     R:::::R   OO:::::::::OO     ee:::::::::::::e  1::::::::::1
-ZZZZZZZZZZZZZZZZZZZEEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR     OOOOOOOOO         eeeeeeeeeeeeee  111111111111
+<img width="789" height="238" alt="image" src="https://github.com/user-attachments/assets/7fca902d-b7ae-42a5-ba76-da0a228f49d5" />
+
 
 Repositório de scripts diversos para Zabbix, seja instalação automatizada, update, gerenciamento e etcRepositório de
 etc.
