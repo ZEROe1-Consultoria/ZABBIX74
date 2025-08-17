@@ -72,8 +72,7 @@ Exemplos de como integrar o Zabbix com ferramentas externas, como:
 ZEROe1 Consultoria Treinamento e Soluções em Monitoração
 Especialistas em monitoramento e observabilidade com foco em Zabbix/Grafana/Wazuh. 
 📍 Ribeirão Preto/SP  
-🔗 [Website](https://www.zeroe1.com.br)
-🔗 [Website](https://www.mestredamonitoracao.com.br)
+🔗 [ZEROe1](https://www.zeroe1.com.br)         🔗 [Mestre da Monitoração](https://www.mestredamonitoracao.com.br)
 
 ---
 
