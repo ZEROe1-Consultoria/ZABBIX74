@@ -1,8 +1,7 @@
 <img width="789" height="238" alt="image" src="https://github.com/user-attachments/assets/7fca902d-b7ae-42a5-ba76-da0a228f49d5" />
 
 
-Repositório de scripts diversos para Zabbix, seja instalação automatizada, update, gerenciamento e etcRepositório de
-etc.
+Repositório de scripts diversos para Zabbix, seja instalação automatizada, update, gerenciamento e Repositório.
 
 
 # 🌐 ZABBIX Monitoramento – Portfólio Técnico
@@ -21,7 +20,7 @@ Este repositório reúne meus estudos, automações, consultas e projetos voltad
 | `sql-queries/`    | Consultas SQL prontas para relatórios, dashboards e troubleshooting                |       
 | `casos-de-uso/`   | Situações reais ou simuladas com problemas, soluções e aprendizados                |
 | `documentacao/`   | Guias e explicações detalhadas dos scripts ou integrações                          |
-| `Integrações/`    | Integrações entre solarwinds e outras ferramentas                                  |
+| `Integrações/`    | Integrações entre o Zabbix e outras ferramentas                                  |
 
 ---
 
@@ -31,7 +30,7 @@ Este repositório reúne meus estudos, automações, consultas e projetos voltad
 ### ✅ Scripts Úteis
 - 
 
-### 🔍 Consultas SWQL
+### 🔍 Consultas SQL
 Exemplos de queries para:  
 - Relatórios customizados.
 - SQL para criação de dashboards.
@@ -55,6 +54,7 @@ Exemplos de como integrar o Zabbix com ferramentas externas, como:
 - Microsoft Teams
 - Telegram
 - Email
+- Whatsapp
   
 ---
 
@@ -69,8 +69,10 @@ Exemplos de como integrar o Zabbix com ferramentas externas, como:
 
 ## 👩‍💻 Sobre nós
 
-ZEROe1 Consultoria Treinamento e Soluções em Monitoração
-Especialistas em monitoramento e observabilidade com foco em Zabbix/Grafana/Wazuh. 
+ZEROe1 Consultoria Treinamento e Soluções em Monitoração.
+
+Especialistas em monitoramento e observabilidade com foco em Zabbix/Grafana/Wazuh.
+
 📍 Ribeirão Preto/SP  
 🔗 [ZEROe1](https://www.zeroe1.com.br)         🔗 [Mestre da Monitoração](https://www.mestredamonitoracao.com.br)         🔗 [Livraria](https://www.livraria.zeroe1.com.br)
 
